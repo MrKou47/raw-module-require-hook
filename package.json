@@ -10,7 +10,9 @@
     "type": "git",
     "url": "git+https://github.com/MrKou47/raw-module-require-hook.git"
   },
-  "keywords": [],
+  "keywords": [
+    "raw", "require", "hook", "file"
+  ],
   "author": "",
   "license": "ISC",
   "bugs": {
