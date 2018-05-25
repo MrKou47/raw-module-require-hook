@@ -12,4 +12,4 @@ describe('Test hook', () => {
     hook({ extensions: ['txt']});
     expect(require('../assets/test.txt')).equal('test txt file.');
   });
-})
+});
