@@ -1,5 +1,7 @@
 # raw-module-require-hook
 
+[![Build Status](https://travis-ci.org/MrKou47/raw-module-require-hook.svg?branch=master)](https://travis-ci.org/MrKou47/raw-module-require-hook)
+
 require html,markdown or txt file in Node.js
 
 ## Install
